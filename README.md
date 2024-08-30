@@ -13,11 +13,6 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/beautiful-todo-list.git
-Navigate to the project directory:
-
-bash
-Copy code
 cd beautiful-todo-list
 Open the index.html file in your browser to view the to-do list.
 
