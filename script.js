@@ -40,3 +40,5 @@ document.getElementById('todo-input').addEventListener('keypress', function(e) {
         addTask();
     }
 });
+
+// the java code
