@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# LGMVIP-Web-Task-Number4
+=======
 Beautiful To-Do List
 A simple and elegant to-do list application built using HTML, CSS, and JavaScript. This project showcases a clean and modern design with interactive features to help you manage your tasks effectively.
 
@@ -25,3 +28,4 @@ You can easily customize the appearance and behavior of the to-do list by modify
 
 Contributing
 Contributions are welcome! If you have suggestions for improvements or find a bug, feel free to create an issue or submit a pull request.
+>>>>>>> e023ad0d8888864972b84ad9564e84fbe2eaebca
